@@ -1,4 +1,4 @@
-# aaayafuj-SMS-phishing
+# aaayafuj-SMS-phishing Kali Linux
 A phishing tool that can also send SMS alerts.
 # AdvPhishing.sh
 * It collects phone numbers and can send phishing-based SMS.
